@@ -8,7 +8,7 @@ The purpose of this project was to create a website with an interactive table us
 
 To use the website, Dana, for example, should navigate to the home link: https://jmasurovsky.github.io/UFO-Sightings/. Dana should begin reading the description on the main page to understand the context of UFO sightings. Then, scroll down and the UFO sighting data is presented as a table with multiple filters such as, '''. To use the filters, Dana has to type in the filter she wants to sort the data by typing in the filter box. For example, the image below shows filtering by "ca" (california) state and "triangle" shape. 
 
-![img_1]()
+![img_1](https://github.com/jmasurovsky/UFO-Sightings/blob/master/images/filter_example.png)
 
 ## Summary
 
